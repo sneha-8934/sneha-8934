@@ -8,7 +8,7 @@
 
 ## 🚀 About Me  
 - 🎓 **B.Tech Student** at Guru Nanak Institutions Technical Campus | 88.9%  
-- 🔍 Skilled in **Python 🐍, SQL 🛠️, Tableau 📊, HTML, CSS**  
+- 🔍 Skilled in **Power BI📈, Python 🐍, SQL 🛠️, Tableau 📊, HTML, CSS**  
 - 📊 Focused on **Data Analysis** and **Visualization**  
 - 📜 Certified in **Python for Data Science** & **Data Visualization**  
 - 🏆 Active participant in tech events & workshops  
@@ -23,6 +23,7 @@
 ---
 
 ## 🛠️ Technical Skills  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
