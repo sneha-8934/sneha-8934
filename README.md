@@ -33,8 +33,8 @@
 ---
 
 ## 🌱 Currently Learning  
-- Advanced Python libraries for **Data Science**  
-- Building interactive dashboards in **Tableau**  
+ 
+- Building interactive dashboards in **Power BI**  
 
 ---
 
