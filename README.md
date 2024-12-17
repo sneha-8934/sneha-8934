@@ -2,6 +2,7 @@
 
 🎯 Passionate about analysing data and building dashboards.  
 👩‍💻 Also building frontend for websites.
+
 📍 Hyderabad, India  
 
 ---
