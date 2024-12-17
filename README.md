@@ -1,7 +1,7 @@
 # 👩‍💻 V. Sneha Naga Harshitha
 
-🌟 **Aspiring Data Analyst**  
-🎯 Passionate about transforming raw data into actionable insights.  
+🎯 Passionate about analysing data and building dashboards.  
+👩‍💻 Also building frontend for websites.
 📍 Hyderabad, India  
 
 ---
@@ -9,9 +9,9 @@
 ## 🚀 About Me  
 - 🎓 **B.Tech Student** at Guru Nanak Institutions Technical Campus | 88.9%  
 - 🔍 Skilled in **Power BI📈, Python 🐍, SQL 🛠️, Tableau 📊, HTML, CSS**  
-- 📊 Focused on **Data Analysis** and **Visualization**  
+- 📊 Focused on **Data Analysis** ,**Visualization** and **Frontend Development**
 - 📜 Certified in **Python for Data Science** & **Data Visualization**  
-- 🏆 Active participant in tech events & workshops  
+- 🏆 Participated in tech events & workshops  
 
 ---
 
@@ -34,7 +34,7 @@
 
 ## 🌱 Currently Learning  
  
-- Building interactive dashboards in **Power BI**  
+- Building interactive dashboards in **Power BI** and Building websites
 
 ---
 
