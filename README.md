@@ -18,7 +18,17 @@
 ## 📂 Projects  
 ### 🧑‍💻 [Internship Studio Project](https://github.com/sneha-8934/Internshipstudio-Project/blob/main/project%20internship%20studio.ipynb)  
 - Analyzed datasets and presented insights using Python libraries.  
-- Tools: **Pandas, Matplotlib, Seaborn**  
+- Tools: **Pandas, Matplotlib, Seaborn**
+
+### 🎬 [Movie Portal Project (Frontend)](https://github.com/sneha-8934/Movie_website_frontend)  
+- Developed a responsive movie portal using HTML, CSS, and Bootstrap with an intuitive and visually appealing interface.  
+- Implemented dynamic features like a carousel and interactive movie cards with hover effects.  
+- Optimized layout for cross-device compatibility to ensure seamless functionality and consistent performance.
+
+### 📊 [Power BI Mobile Sales Dashboard Project](https://github.com/sneha-8934/Mobile-Sales-Dashboard)  
+- Developed an interactive Power BI dashboard to analyse mobile sales data, visualizing 769.2M total sales and 19K quantities sold across dimensions like time, city, and brand.  
+- Identified trends and insights on payment methods, ratings, and year-over-year performance comparisons.  
+- Completed this as a final project after a 30-day Power BI masterclass by Satish Dhawale Sir, showcasing skills in data visualization and DAX calculations.
 
 ---
 
@@ -50,4 +60,4 @@
 
 ---
 
-🎉 _"Learning, growing, and turning ideas into impactful projects."_  
+🎉 _"Learning, growing, and turning ideas into impactful projects."_
