@@ -1,7 +1,7 @@
 # 👩‍💻 V. Sneha Naga Harshitha
 
 🎯 Passionate about analysing data and building dashboards.  
-👩‍💻 Also building frontend for websites.
+👩‍💻 Also building frontend for websites.  
 📍 Hyderabad, India  
 
 ---
