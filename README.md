@@ -8,7 +8,7 @@
 
 ## 🚀 About Me  
 - 🎓 **B.Tech Student** at Guru Nanak Institutions Technical Campus | 88.9%  
-- 🔍 Skilled in **Power BI📈, Python 🐍, SQL 🛠️, Tableau 📊, HTML, CSS**  
+- 🔍 Skilled in **MS Excel💹,Power BI📈, Python 🐍, SQL 🛠️, Tableau 📊, HTML, CSS**  
 - 📊 Focused on **Data Analysis** ,**Visualization** and **Frontend Development**
 - 📜 Certified in **Python for Data Science** & **Data Visualization**  
 - 🏆 Participated in tech events & workshops  
@@ -33,9 +33,10 @@
 ---
 
 ## 🛠️ Technical Skills   
+![MS Excel](https://img.shields.io/badge/MS_Excel-F2C812?style=for-the-badge&logo=power-bi&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
