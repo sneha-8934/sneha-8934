@@ -1,7 +1,7 @@
 # 👩‍💻 V. Sneha Naga Harshitha
 
 🎯 Passionate about analysing data and building dashboards.  
-👩‍💻 Exploring Cybersecurity. 
+👩‍💻 Exploring Cybersecurity.   
 📍 Hyderabad, India  
 
 ---
