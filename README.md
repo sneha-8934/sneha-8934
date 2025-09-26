@@ -6,8 +6,7 @@
 
 ---
 
-## 🚀 About Me  
-- 🎓 **B.Tech Student** at Guru Nanak Institutions Technical Campus | 83.9%  
+## 🚀 About Me   
 - 🔍 Skilled in **MS Excel💹,Power BI📈, Python 🐍, SQL 🛠️, Tableau 📊, HTML, CSS**  
 - 📊 Focused on **Data Analysis** ,**Visualization** and **Frontend Development**
 - 📜 Certified in **Python for Data Science** & **Data Visualization**  
