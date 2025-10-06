@@ -48,9 +48,6 @@
 
 ---
 
-## 📫 Let's Connect  
-[![GitHub](https://img.shields.io/badge/GitHub-sneha--8934-181717?style=for-the-badge&logo=github)](https://github.com/sneha-8934)  
-[![Email](https://img.shields.io/badge/Email-harshithav257@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshithav257@gmail.com)  
 
 ---
 
