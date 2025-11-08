@@ -19,7 +19,7 @@
 - Analyzed datasets and presented insights using Python libraries.  
 - Tools: **Pandas, Matplotlib, Seaborn**
 
-### 🎬 [Movie Portal Project (Frontend)]([https://github.com/sneha-8934/Movie_website_frontend](https://movie-website-afd9.onrender.com))  
+### 🎬 [Movie Portal Project (Frontend)](https://movie-website-afd9.onrender.com) 
 - Developed a responsive movie portal using HTML, CSS, and Bootstrap with an intuitive and visually appealing interface.  
 - Implemented dynamic features like a carousel and interactive movie cards with hover effects.  
 - Optimized layout for cross-device compatibility to ensure seamless functionality and consistent performance.
