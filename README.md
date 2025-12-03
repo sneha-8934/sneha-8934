@@ -48,13 +48,4 @@
 
 ---
 
-
----
-
-## 📈 GitHub Stats  
-![Sneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sneha-8934&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-8934&layout=compact&theme=radical)  
-
----
-
 🎉 _"Learning, growing, and turning ideas into impactful projects."_
